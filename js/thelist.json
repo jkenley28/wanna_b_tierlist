@@ -3416,7 +3416,7 @@
     "Akvasto": {
       "base": "",
       "category": "Semi-auto",
-      "dmg": "Critical/Status",
+      "dmg": "Status",
       "dmgLink": "https://i.imgur.com/AUV8yVf.jpg",
       "mr": 8,
       "name": "Akvasto",
@@ -3430,7 +3430,7 @@
     "Akzani": {
       "base": "",
       "category": "Auto",
-      "dmg": "Raw Damage",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/w1evgq8.jpg",
       "mr": 4,
       "name": "Akzani",
@@ -3458,7 +3458,7 @@
     "Atomos": {
       "base": "",
       "category": "Beam",
-      "dmg": "Crit",
+      "dmg": "Critical/Status",
       "dmgLink": "https://imgur.com/a/N7GhwtI",
       "mr": 5,
       "name": "Atomos",
@@ -3472,7 +3472,7 @@
     "Azima": {
       "base": "",
       "category": "Auto",
-      "dmg": "Status",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/ilVfxFM.jpg",
       "mr": 6,
       "name": "Azima",
@@ -3542,7 +3542,7 @@
     "Despair": {
       "base": "",
       "category": "Thrown",
-      "dmg": "Raw Damage",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/38Up9LQ.jpg",
       "mr": 4,
       "name": "Despair",
@@ -3598,7 +3598,7 @@
     "Euphona Prime": {
       "base": "",
       "category": "Shotgun",
-      "dmg": "Critical/Status",
+      "dmg": "Critical",
       "dmgLink": "https://i.imgur.com/ZvHih94.jpg",
       "mr": 14,
       "name": "Euphona Prime",
@@ -3626,7 +3626,7 @@
     "Hikou Prime": {
       "base": "Base Need Buffs",
       "category": "Thrown",
-      "dmg": "Raw Damage",
+      "dmg": "Status",
       "dmgLink": "https://i.imgur.com/afzFet8.jpg",
       "mr": 4,
       "name": "Hikou Prime",
@@ -3794,7 +3794,7 @@
     "Prisma Angstrum": {
       "base": "Base Need Buffs",
       "category": "Launcher",
-      "dmg": "Status",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/P2NMNgq.jpg",
       "mr": 8,
       "name": "Prisma Angstrum",
@@ -3808,7 +3808,7 @@
     "Prisma Twin Gremlins": {
       "base": "Base Need Buffs",
       "category": "Auto",
-      "dmg": "Crit",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/enN2v1E.jpg",
       "mr": 11,
       "name": "Prisma Twin Gremlins",
@@ -3822,7 +3822,7 @@
     "Pyrana Prime": {
       "base": "Base is Contender",
       "category": "Shotgun",
-      "dmg": "Crit",
+      "dmg": "Critical",
       "dmgLink": "https://i.imgur.com/Nb02j3U.jpg",
       "mr": 13,
       "name": "Pyrana Prime",
@@ -3864,7 +3864,7 @@
     "Secura Dual Cestra": {
       "base": "",
       "category": "Auto",
-      "dmg": "Status",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/FmyQSal.jpg",
       "mr": 10,
       "name": "Secura Dual Cestra",
@@ -3948,7 +3948,7 @@
     "Staticor": {
       "base": "",
       "category": "Launcher",
-      "dmg": "Status",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/cKlGRHo.jpg",
       "mr": 10,
       "name": "Staticor",
@@ -4004,7 +4004,7 @@
     "Talons": {
       "base": "",
       "category": "Thrown",
-      "dmg": "Raw Damage",
+      "dmg": "Critical/Status",
       "dmgLink": "https://i.imgur.com/F6gfJPt.jpg",
       "mr": 8,
       "name": "Talons",
